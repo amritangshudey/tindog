@@ -1,0 +1,40 @@
+body{
+  font-family: "Montserrat-Black"
+}
+#title {
+  background-color:#ff4c68;
+  position:relative;
+  z-index: -1;
+}
+.heading-text{
+  font-size: 4rem;
+  font-family:"Montserrat";
+  color: #fff;
+  line-height: 1.5
+
+}
+
+.heading-btn{
+  margin: 10% 10%;
+
+}
+.image{
+  transform:rotate(20deg);
+  width: 40%;
+
+
+}
+#features{
+  position: relative;
+  background-color: #fff;
+  z-index: 10;
+  padding-top: 20%;
+
+}
+.container-fluid{
+  padding:5% 15%;
+}
+nav-pos{
+  margin: auto;
+
+}
